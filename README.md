@@ -11,5 +11,5 @@ Other designs using the Paraflex principles where made for subwoofer and infraso
 ![PF-212-mk1 mod-top](https://github.com/High-Order-Quarterwave-Society/PF-212-MK1-mid-top/blob/main/Paraflex-212-mk1-001.jpg)
 
 
- #### Honereable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
+ #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
 Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer and many more.
