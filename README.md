@@ -7,7 +7,10 @@ The PF-212-mk1 is based on a low and high tuned resonator making the design very
 Other designs using the Paraflex principles where made for subwoofer and infrasonic frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/). 
 
 # Working range
-The PF-212-mk1 has a 70Hz (Fb) tuning and working range shall be 80hz to 600hz. With modified phase plug this can be extended to 900hz. bRecomended crossover setting depends on the drivers used, but a basic setting can be set with a 90hz 4th order Linkwitz Rily Highpass Filter (24dB/LR HPF) and a 600-900hz 24dB/LR LP. However we encourage the user to adjust the frequency range and filter based on their application and measurements.
+The PF-212-mk1 has a 70Hz (Fb) tuning and working range shall be 80hz to 600hz. With phase plugs on the mid driver baffle this can be extended to 900hz. Recomended crossover setting depends on the drivers used, but a basic setting can be set with a 90hz 4th order Linkwitz Rily Highpass Filter (24dB/LR HPF) and a 600-900hz 24dB/LR LP. However we encourage the user to adjust the frequency range and filter based on their application and measurements.
+
+# Adding waveguides or horn to extend to 16-20Khz
+The PF-212-mk1 can be fitted with a Line-array type waveguide or a exponential horn. We recomend 1.4" or higher Compression Drivers capable in a range from about 800Hz, 900Hz or 1Khz to 16-20Khz. 
 
 # Notes
 There are numerous modifications and versions of the base mk1 design.
